@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FamilyFeud xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionSet>
+    <Question>7 of the top 10 Pharmaceutical companies use ELN. What are the top 5 ranked in order of total $ spent for last 8 years ?</Question>
+    <Answer>BMS ($20M)</Answer>
+    <Mark>50</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>7 of the top 10 Pharmaceutical companies use ELN. What are the top 5 ranked in order of total $ spent for last 8 years ?</Question>
+    <Answer>AZ ($19M)</Answer>
+    <Mark>40</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>7 of the top 10 Pharmaceutical companies use ELN. What are the top 5 ranked in order of total $ spent for last 8 years ?</Question>
+    <Answer>Novartis ($17M)</Answer>
+    <Mark>30</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>7 of the top 10 Pharmaceutical companies use ELN. What are the top 5 ranked in order of total $ spent for last 8 years ?</Question>
+    <Answer>Merck ($14M)</Answer>
+    <Mark>20</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>7 of the top 10 Pharmaceutical companies use ELN. What are the top 5 ranked in order of total $ spent for last 8 years ?</Question>
+    <Answer>GSK ($12M)</Answer>
+    <Mark>10</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what is the greatest data or information challenge customers have ?</Question>
+    <Answer>Integrating data from multiple systems (24%)</Answer>
+    <Mark>75</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what is the greatest data or information challenge customers have ?</Question>
+    <Answer>Finding data when needed (19%)</Answer>
+    <Mark>60</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what is the greatest data or information challenge customers have ?</Question>
+    <Answer>Storing and organizing data (14%)</Answer>
+    <Mark>40</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what is the greatest data or information challenge customers have ?</Question>
+    <Answer>The number of databases and systems that are required (14%)</Answer>
+    <Mark>30</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what is the greatest data or information challenge customers have ?</Question>
+    <Answer>Sharing data and information with others (9%)</Answer>
+    <Mark>20</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>Which customers were the highest revenue deals Informatics had in 2012 ?</Question>
+    <Answer>AZ ($6.5M)</Answer>
+    <Mark>50</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>Which customers were the highest revenue deals Informatics had in 2012 ?</Question>
+    <Answer>BMS ($5.1M)</Answer>
+    <Mark>40</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>Which customers were the highest revenue deals Informatics had in 2012 ?</Question>
+    <Answer>Roche ($2.7M)</Answer>
+    <Mark>30</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>Which customers were the highest revenue deals Informatics had in 2012 ?</Question>
+    <Answer>GSK ($2.3M)</Answer>
+    <Mark>20</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>Which customers were the highest revenue deals Informatics had in 2012 ?</Question>
+    <Answer>Merck ($2.2M)</Answer>
+    <Mark>10</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what do customers believe is the main purpose of ELN ? </Question>
+    <Answer>Collaboration and knowledge sharing (45%)</Answer>
+    <Mark>75</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what do customers believe is the main purpose of ELN ? </Question>
+    <Answer>Portal into the lab systems and databases (42%)</Answer>
+    <Mark>60</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what do customers believe is the main purpose of ELN ? </Question>
+    <Answer>Archiving data (34%)</Answer>
+    <Mark>40</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what do customers believe is the main purpose of ELN ? </Question>
+    <Answer>Regulatory compliance (24%)</Answer>
+    <Mark>30</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what do customers believe is the main purpose of ELN ? </Question>
+    <Answer>Execution of laboratory procedures (16%)</Answer>
+    <Mark>20</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>What are the top 5 ELN customers ranked in order of number of seats ?</Question>
+    <Answer>Merck (5500)</Answer>
+    <Mark>50</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>What are the top 5 ELN customers ranked in order of number of seats ?</Question>
+    <Answer>GSK (3500)</Answer>
+    <Mark>40</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>What are the top 5 ELN customers ranked in order of number of seats ?</Question>
+    <Answer>BMS (1500)</Answer>
+    <Mark>30</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>What are the top 5 ELN customers ranked in order of number of seats ?</Question>
+    <Answer>Novartis (1475)</Answer>
+    <Mark>20</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>What are the top 5 ELN customers ranked in order of number of seats ?</Question>
+    <Answer>AZ (1000+)</Answer>
+    <Mark>10</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what goals do customers want to achieve with ELN ?</Question>
+    <Answer>Improve lab efficiency and productivity (43%)</Answer>
+    <Mark>75</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what goals do customers want to achieve with ELN ?</Question>
+    <Answer>Collaboration and knowledge sharing (18%)</Answer>
+    <Mark>60</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what goals do customers want to achieve with ELN ?</Question>
+    <Answer>Information/Data archiving (8%)</Answer>
+    <Mark>40</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what goals do customers want to achieve with ELN ?</Question>
+    <Answer>Protection of IP</Answer>
+    <Mark>30</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>According to the 2012 Atrium ELN Survey, what goals do customers want to achieve with ELN ?</Question>
+    <Answer>Improve data organization</Answer>
+    <Mark>20</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>In which market segments did Informatics have the highest revenue in 2012 ?</Question>
+    <Answer>Chemistry ELN  ($29.5M)</Answer>
+    <Mark>75</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>In which market segments did Informatics have the highest revenue in 2012 ?</Question>
+    <Answer>Desktop ($20.7M)</Answer>
+    <Mark>60</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>In which market segments did Informatics have the highest revenue in 2012 ?</Question>
+    <Answer>QA/QC ($11.8M)</Answer>
+    <Mark>40</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>In which market segments did Informatics have the highest revenue in 2012 ?</Question>
+    <Answer>Analytics ($9.7M)</Answer>
+    <Mark>30</Mark>
+  </QuestionSet>
+  <QuestionSet>
+    <Question>In which market segments did Informatics have the highest revenue in 2012 ?</Question>
+    <Answer>Biology ($5.7M)</Answer>
+    <Mark>20</Mark>
+  </QuestionSet>
+</FamilyFeud>
